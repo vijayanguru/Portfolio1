@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <h2>Want to connect? Fill out this 😊</h2>
+  <form action="https:                                                      
+    <label>Name:</label><br>
+    <input type="text" name="name" required><br>
+    <label>Phone/Email:</label><br>
+    <input type="text" name="contact" required><br><br>
+    <input type="hidden" name="_subject" value="New Connection Request">
+    <button type="submit">Let's Connect!</button>
+  </form>
+
+  <h3>My details: abc@example.com / 1234567890</h3>
+</body>
+</html>
