@@ -7,7 +7,7 @@
             font-family: Arial, sans-serif;
             margin: 20px;
         }
-        .section {
+        .section{
             margin-bottom: 20px;
         }
     </style>
