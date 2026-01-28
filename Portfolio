@@ -5,7 +5,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 20px;
+            margin:20px;
         }
         .section{
             margin-bottom:20px;
