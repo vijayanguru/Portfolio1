@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <h2>Want to connect? Fill out this  😊</h2>
+  <h2>Want to connect? Fill out this 😊</h2>
   <form action="https:                                                      
     <label>Name:</label><br>
     <input type="text" name="name" required><br>
